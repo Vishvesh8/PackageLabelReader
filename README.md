@@ -14,6 +14,8 @@ This app has uses in
 3) (Optional) For better performance, if you are using this project at a later date compared to when it was uploaded, update the Firebase and Geocoder API version in the gradle and xml files.
 4) Build and run!
 
+Note: This app assumes the standard form of printing package labels, with From address at the top and To address below it. In case of modifications to this format, accuracy of the app may be compromised.
+
 # TODO
 1) Create a demo video
 2) Upload demo pictures of the running app.
